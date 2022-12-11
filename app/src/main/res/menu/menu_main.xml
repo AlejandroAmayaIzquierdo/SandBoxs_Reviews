@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/compras_action_button"
+        android:title="Compras">
+    </item>
+    <item android:id="@+id/contacto_action_button"
+        android:title="Contacto"></item>
+</menu>
